@@ -124,25 +124,10 @@ document.addEventListener("DOMContentLoaded", function() {
   var quotes = [
     "'Chimichangas!'",
     "'SHORYUKEN'",
-    "'Now, GIMME YOUR MILK MONEY'",
     "'A Poc-key-Lips. I think I found my new favorite word'",
     "'Ah, go web your zipper closed'",
-    "'My common sense is tingling'",
-    "'You just killed the nice deranged chick from the juice bar that I was going to score with someday maybe!'",
-    "'Do I still think in those little yellow boxes?'",
-    "'DOOR KNOBS DON'T KILL PEOPLE...I KILL PEOPLE!!!!!!!!!!!!!!!!!!'",
-    "'Nothin', just called to say I'M STILL ALIVE!!! Any mail--?'",
-    "'Black Widow. I feel we've known each other long enough that I can ask you... are you putting on weight?'",
-    "'Holy Spider-Man ripoffs! Is THIS the suit I've been wearing'",
-    "'Okay how about this ,OMG FOR THE LOVE OF GOD DONT KILL ME PLEASSSE'",
-    "'Ah, those yellow boxes are back! What fun we shall have together!'",
-    "'Just repeat after me - There is a man in a room, with a typewriter..'",
-    "'Third of all. Do not interrupt while I'm going good with an indian chick.....that's hotter than the one kirk bagged on star trek.'",
-    "'Yes I have a gun in my pants, but that doesn't mean I'm not happy to see you!'",
-    "'Well, SAMUEL, just cause you got rocket-power farting powers. I'm not gonna split hairs and I'm not gonna fight my teammates. I mean. Unless it involves terry's clothes coming off and mud or chocolate pudding or something like that..'",
-    "'Eat blazing doorknobs of death, banana face!'",
-    "'Hey, it's me Deadpool, I shot you!'",
-    "'How do you say oh sh!t in skrullinese?'"
+    "'My common sense is tingling'"
+
     ]
     
     
